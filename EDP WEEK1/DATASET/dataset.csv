@@ -1,0 +1,13 @@
+Employee,Age,Experience,Education_Years,Department,Salary
+Rahul,25,2,16,IT,35000
+Priya,30,5,18,HR,60000
+Amit,,3,15,Finance,42000
+Sneha,28,,17,Marketing,50000
+Kiran,35,10,20,IT,90000
+Anjali,27,4,,HR,
+Vikram,32,7,18,Finance,70000
+Neha,24,1,16,Marketing,30000
+Rohit,29,6,17,IT,65000
+Pooja,31,8,19,HR,75000
+Arjun,26,3,16,Finance,45000
+Meera,33,9,19,Marketing,82000
